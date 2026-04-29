@@ -13,6 +13,6 @@
 =======================================
 Documentations: https://github.com/tuanpham1993-gif/eProjectGroup01/tree/main/Documentations
 =======================================
-Published website: https://l3nhan.github.io/gitHUBPush/
+Published website: N/A
 =======================================
 Thank you for visit our website.
