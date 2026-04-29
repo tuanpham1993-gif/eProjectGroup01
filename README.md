@@ -1,5 +1,4 @@
 # eProjectGroup01
-# eProjectGroup01
 =======================================
 + Supervisor : LÊ THANH NHÂN
 + Semester : I
